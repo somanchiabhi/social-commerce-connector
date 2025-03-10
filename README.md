@@ -5,7 +5,7 @@
 
 A cross-site cold-start product recommendation system that aims to recommend products from e-commerce websites to users at social networking sites in "cold-start" situations.
 
-## Features
+## Features#
 
 - Cross-platform integration between social media and e-commerce
 - Cold-start problem solution using microblogging information
